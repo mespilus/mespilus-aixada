@@ -1,0 +1,14 @@
+drwxr-xr-x    8 213768     mespiB9VB        4096 Apr 20 13:30 .
+drwxr-xr-x   12 213768     mespiB9VB        4096 Apr 20 13:30 ..
+-rw-r--r--    1 213768     mespiB9VB          29 Apr 20 13:30 .gitignore
+-rw-r--r--    1 213768     mespiB9VB        2589 Apr 20 13:30 CONTRIBUTING.md
+-rw-r--r--    1 213768     mespiB9VB        6998 Apr 20 13:30 README.md
+-rw-r--r--    1 213768     mespiB9VB        1537 Apr 20 13:30 blueimp-file-upload.jquery.json
+drwxr-xr-x    2 213768     mespiB9VB        4096 Apr 20 13:30 cors
+drwxr-xr-x    2 213768     mespiB9VB        4096 Apr 20 13:30 css
+drwxr-xr-x    2 213768     mespiB9VB        4096 Apr 20 13:30 img
+-rw-r--r--    1 213768     mespiB9VB       13143 Apr 20 13:30 index.html
+drwxr-xr-x    4 213768     mespiB9VB        4096 Apr 20 13:30 js
+-rw-r--r--    1 213768     mespiB9VB        1646 Apr 20 13:30 package.json
+drwxr-xr-x    6 213768     mespiB9VB        4096 Apr 20 13:30 server
+drwxr-xr-x    2 213768     mespiB9VB        4096 Apr 20 13:30 test

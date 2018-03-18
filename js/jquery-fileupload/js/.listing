@@ -1,0 +1,9 @@
+drwxr-xr-x    4 213768     mespiB9VB        4096 Apr 20 13:30 .
+drwxr-xr-x    8 213768     mespiB9VB        4096 Apr 20 13:30 ..
+drwxr-xr-x    2 213768     mespiB9VB        4096 Apr 20 13:30 cors
+-rw-r--r--    1 213768     mespiB9VB        8519 Apr 20 13:30 jquery.fileupload-fp.js
+-rw-r--r--    1 213768     mespiB9VB       32210 Apr 20 13:30 jquery.fileupload-ui.js
+-rw-r--r--    1 213768     mespiB9VB       50839 Apr 20 13:30 jquery.fileupload.js
+-rw-r--r--    1 213768     mespiB9VB        8902 Apr 20 13:30 jquery.iframe-transport.js
+-rw-r--r--    1 213768     mespiB9VB        2524 Apr 20 13:30 main.js
+drwxr-xr-x    2 213768     mespiB9VB        4096 Apr 20 13:30 vendor

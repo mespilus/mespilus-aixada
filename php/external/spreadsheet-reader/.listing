@@ -1,0 +1,9 @@
+drwxr-xr-x    3 213768     mespiB9VB        4096 Apr 20 13:29 .
+drwxr-xr-x    7 213768     mespiB9VB        4096 Apr 20 13:28 ..
+-rw-r--r--    1 213768     mespiB9VB        1190 Apr 20 13:28 README.md
+-rw-r--r--    1 213768     mespiB9VB        6425 Apr 20 13:28 SpreadsheetReader.php
+-rw-r--r--    1 213768     mespiB9VB        6257 Apr 20 13:28 SpreadsheetReader_CSV.php
+-rw-r--r--    1 213768     mespiB9VB        6460 Apr 20 13:28 SpreadsheetReader_ODS.php
+-rw-r--r--    1 213768     mespiB9VB        4061 Apr 20 13:28 SpreadsheetReader_XLS.php
+-rw-r--r--    1 213768     mespiB9VB       24445 Apr 20 13:28 SpreadsheetReader_XLSX.php
+drwxr-xr-x    2 213768     mespiB9VB        4096 Apr 20 13:29 php-excel-reader

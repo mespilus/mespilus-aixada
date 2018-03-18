@@ -1,0 +1,10 @@
+drwxr-xr-x    9 213768     mespiB9VB        4096 Apr 20 13:30 .
+drwxrwxr-x   10 213768     mespiB9VB        4096 Jun 26 20:25 ..
+-rw-r--r--    1 213768     mespiB9VB       22782 Apr 20 13:30 config.php
+drwxr-xr-x    2 213768     mespiB9VB        4096 Apr 20 13:30 custom_img
+drwxr-xr-x    2 213768     mespiB9VB        4096 Apr 20 13:30 dbBkups
+drwxr-xr-x    2 213768     mespiB9VB        4096 Apr 20 13:30 export
+drwxr-xr-x    2 213768     mespiB9VB        4096 Apr 20 13:30 lang
+drwxr-xr-x    2 213768     mespiB9VB        4096 Apr 20 13:30 orders
+drwxr-xr-x    2 213768     mespiB9VB        4096 Apr 20 13:30 reports
+drwxr-xr-x    2 213768     mespiB9VB        4096 Apr 20 13:30 upload

@@ -1,0 +1,15 @@
+drwxr-xr-x    2 213768     mespiB9VB        4096 Apr 20 13:28 .
+drwxr-xr-x    4 213768     mespiB9VB        4096 Apr 20 13:28 ..
+-rw-r--r--    1 213768     mespiB9VB        5973 Apr 20 13:28 aixada_queries_account.sql
+-rw-r--r--    1 213768     mespiB9VB        4077 Apr 20 13:28 aixada_queries_cart.sql
+-rw-r--r--    1 213768     mespiB9VB        1734 Apr 20 13:28 aixada_queries_dates.sql
+-rw-r--r--    1 213768     mespiB9VB        3481 Apr 20 13:28 aixada_queries_incidents.sql
+-rw-r--r--    1 213768     mespiB9VB       26744 Apr 20 13:28 aixada_queries_order.sql
+-rw-r--r--    1 213768     mespiB9VB       25997 Apr 20 13:28 aixada_queries_products.sql
+-rw-r--r--    1 213768     mespiB9VB        6071 Apr 20 13:28 aixada_queries_providers.sql
+-rw-r--r--    1 213768     mespiB9VB        9259 Apr 20 13:28 aixada_queries_report.sql
+-rw-r--r--    1 213768     mespiB9VB        6639 Apr 20 13:28 aixada_queries_shop.sql
+-rw-r--r--    1 213768     mespiB9VB        4061 Apr 20 13:28 aixada_queries_statistics.sql
+-rw-r--r--    1 213768     mespiB9VB       14922 Apr 20 13:28 aixada_queries_useruf.sql
+-rw-r--r--    1 213768     mespiB9VB        4586 Apr 20 13:28 aixada_queries_validate.sql
+-rw-r--r--    1 213768     mespiB9VB       27431 Apr 20 13:28 canned_queries.sql

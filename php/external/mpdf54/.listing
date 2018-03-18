@@ -1,0 +1,25 @@
+drwxr-xr-x   12 213768     mespiB9VB        4096 Apr 20 13:29 .
+drwxr-xr-x    7 213768     mespiB9VB        4096 Apr 20 13:28 ..
+-rw-r--r--    1 213768     mespiB9VB       16141 Apr 20 13:28 CHANGELOG.txt
+-rw-r--r--    1 213768     mespiB9VB        4834 Apr 20 13:28 CREDITS.txt
+-rw-r--r--    1 213768     mespiB9VB        5465 Apr 20 13:28 FONT INFO.txt
+-rw-r--r--    1 213768     mespiB9VB       18009 Apr 20 13:28 LICENSE.txt
+-rw-r--r--    1 213768     mespiB9VB        7023 Apr 20 13:28 README.txt
+drwxr-xr-x    2 213768     mespiB9VB        4096 Apr 20 13:28 classes
+-rw-r--r--    1 213768     mespiB9VB        5358 Apr 20 13:28 compress.php
+-rw-r--r--    1 213768     mespiB9VB       21997 Apr 20 13:28 config.php
+-rw-r--r--    1 213768     mespiB9VB        3853 Apr 20 13:28 config_cp.php
+-rw-r--r--    1 213768     mespiB9VB        8471 Apr 20 13:28 config_fonts.php
+drwxr-xr-x    2 213768     mespiB9VB        4096 Apr 20 13:29 font
+-rw-r--r--    1 213768     mespiB9VB       26699 Apr 20 13:28 graph.php
+drwxr-xr-x    2 213768     mespiB9VB        4096 Apr 20 13:29 graph_cache
+drwxr-xr-x    2 213768     mespiB9VB        4096 Apr 20 13:29 iccprofiles
+drwxr-xr-x    2 213768     mespiB9VB        4096 Apr 20 13:29 includes
+-rw-r--r--    1 213768     mespiB9VB         463 Apr 20 13:28 mpdf.css
+-rw-r--r--    1 213768     mespiB9VB     1268728 Apr 20 13:28 mpdf.php
+drwxr-xr-x    3 213768     mespiB9VB        4096 Apr 20 13:29 mpdfi
+drwxr-xr-x    2 213768     mespiB9VB        4096 Apr 20 13:29 patterns
+-rw-r--r--    1 213768     mespiB9VB        1143 Apr 20 13:28 progbar.css
+drwxr-xr-x    2 213768     mespiB9VB        4096 Apr 20 13:29 ttfontdata
+drwxr-xr-x    2 213768     mespiB9VB        4096 Apr 20 13:29 ttfonts
+drwxr-xr-x    2 213768     mespiB9VB        4096 Apr 20 13:29 utils

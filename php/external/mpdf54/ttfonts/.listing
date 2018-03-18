@@ -1,0 +1,53 @@
+drwxr-xr-x    2 213768     mespiB9VB        4096 Apr 20 13:29 .
+drwxr-xr-x   12 213768     mespiB9VB        4096 Apr 20 13:29 ..
+-rw-r--r--    1 213768     mespiB9VB      584396 Apr 20 13:29 DejaVuSans-Bold.ttf
+-rw-r--r--    1 213768     mespiB9VB      524624 Apr 20 13:29 DejaVuSans-BoldOblique.ttf
+-rw-r--r--    1 213768     mespiB9VB      524396 Apr 20 13:29 DejaVuSans-Oblique.ttf
+-rw-r--r--    1 213768     mespiB9VB      633604 Apr 20 13:29 DejaVuSans.ttf
+-rw-r--r--    1 213768     mespiB9VB      545712 Apr 20 13:29 DejaVuSansCondensed-Bold.ttf
+-rw-r--r--    1 213768     mespiB9VB      493756 Apr 20 13:29 DejaVuSansCondensed-BoldOblique.ttf
+-rw-r--r--    1 213768     mespiB9VB      489032 Apr 20 13:29 DejaVuSansCondensed-Oblique.ttf
+-rw-r--r--    1 213768     mespiB9VB      555944 Apr 20 13:29 DejaVuSansCondensed.ttf
+-rw-r--r--    1 213768     mespiB9VB      302868 Apr 20 13:29 DejaVuSansMono-Bold.ttf
+-rw-r--r--    1 213768     mespiB9VB      224160 Apr 20 13:29 DejaVuSansMono-BoldOblique.ttf
+-rw-r--r--    1 213768     mespiB9VB      230244 Apr 20 13:29 DejaVuSansMono-Oblique.ttf
+-rw-r--r--    1 213768     mespiB9VB      322524 Apr 20 13:29 DejaVuSansMono.ttf
+-rw-r--r--    1 213768     mespiB9VB      307596 Apr 20 13:29 DejaVuSerif-Bold.ttf
+-rw-r--r--    1 213768     mespiB9VB      295360 Apr 20 13:29 DejaVuSerif-BoldItalic.ttf
+-rw-r--r--    1 213768     mespiB9VB      303004 Apr 20 13:29 DejaVuSerif-Italic.ttf
+-rw-r--r--    1 213768     mespiB9VB      330052 Apr 20 13:29 DejaVuSerif.ttf
+-rw-r--r--    1 213768     mespiB9VB      283140 Apr 20 13:29 DejaVuSerifCondensed-Bold.ttf
+-rw-r--r--    1 213768     mespiB9VB      294584 Apr 20 13:29 DejaVuSerifCondensed-BoldItalic.ttf
+-rw-r--r--    1 213768     mespiB9VB      302444 Apr 20 13:29 DejaVuSerifCondensed-Italic.ttf
+-rw-r--r--    1 213768     mespiB9VB      296976 Apr 20 13:29 DejaVuSerifCondensed.ttf
+-rw-r--r--    1 213768     mespiB9VB        4817 Apr 20 13:29 DejaVuinfo.txt
+-rw-r--r--    1 213768     mespiB9VB        4314 Apr 20 13:29 GNUFreeFontinfo.txt
+-rw-r--r--    1 213768     mespiB9VB       57796 Apr 20 13:29 Garuda-Bold.ttf
+-rw-r--r--    1 213768     mespiB9VB       57460 Apr 20 13:29 Garuda-BoldOblique.ttf
+-rw-r--r--    1 213768     mespiB9VB       57412 Apr 20 13:29 Garuda-Oblique.ttf
+-rw-r--r--    1 213768     mespiB9VB       57324 Apr 20 13:29 Garuda.ttf
+-rw-r--r--    1 213768     mespiB9VB       77420 Apr 20 13:29 Norasi-Bold.ttf
+-rw-r--r--    1 213768     mespiB9VB       78280 Apr 20 13:29 Norasi-BoldOblique.ttf
+-rw-r--r--    1 213768     mespiB9VB       79836 Apr 20 13:29 Norasi-Oblique.ttf
+-rw-r--r--    1 213768     mespiB9VB      103412 Apr 20 13:29 Norasi.ttf
+-rw-r--r--    1 213768     mespiB9VB       17989 Apr 20 13:29 Thai Fonts License.txt
+-rw-r--r--    1 213768     mespiB9VB     1144764 Apr 20 13:29 XB Riyaz.ttf
+-rw-r--r--    1 213768     mespiB9VB     1159192 Apr 20 13:29 XB RiyazBd.ttf
+-rw-r--r--    1 213768     mespiB9VB     1159500 Apr 20 13:29 XB RiyazBdIt.ttf
+-rw-r--r--    1 213768     mespiB9VB     1131668 Apr 20 13:29 XB RiyazIt.ttf
+-rw-r--r--    1 213768     mespiB9VB     1389628 Apr 20 13:29 XB Zar Bd.ttf
+-rw-r--r--    1 213768     mespiB9VB     1366172 Apr 20 13:29 XB Zar BdIt.ttf
+-rw-r--r--    1 213768     mespiB9VB     1361580 Apr 20 13:29 XB Zar It.ttf
+-rw-r--r--    1 213768     mespiB9VB     1397368 Apr 20 13:29 XB Zar.ttf
+-rw-r--r--    1 213768     mespiB9VB        4303 Apr 20 13:29 XW Zar Font Info.txt
+-rw-r--r--    1 213768     mespiB9VB      235632 Apr 20 13:29 ind_bn_1_001.ttf
+-rw-r--r--    1 213768     mespiB9VB      257872 Apr 20 13:29 ind_gu_1_001.ttf
+-rw-r--r--    1 213768     mespiB9VB      107216 Apr 20 13:29 ind_hi_1_001.ttf
+-rw-r--r--    1 213768     mespiB9VB      226916 Apr 20 13:29 ind_kn_1_001.ttf
+-rw-r--r--    1 213768     mespiB9VB      115804 Apr 20 13:29 ind_ml_1_001.ttf
+-rw-r--r--    1 213768     mespiB9VB      162552 Apr 20 13:29 ind_or_1_001.ttf
+-rw-r--r--    1 213768     mespiB9VB       57864 Apr 20 13:29 ind_pa_1_001.ttf
+-rw-r--r--    1 213768     mespiB9VB       85328 Apr 20 13:29 ind_ta_1_001.ttf
+-rw-r--r--    1 213768     mespiB9VB      124248 Apr 20 13:29 ind_te_1_001.ttf
+-rw-r--r--    1 213768     mespiB9VB       23112 Apr 20 13:29 ocrb10.ttf
+-rw-r--r--    1 213768     mespiB9VB        3361 Apr 20 13:29 ocrbinfo.txt

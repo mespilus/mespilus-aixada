@@ -1,0 +1,14 @@
+drwxr-xr-x    4 213768     mespiB9VB        4096 Apr 20 13:28 .
+drwxrwxr-x   10 213768     mespiB9VB        4096 Jun 26 20:25 ..
+-rw-r--r--    1 213768     mespiB9VB         884 Apr 20 13:28 Makefile
+-rw-r--r--    1 213768     mespiB9VB       16221 Apr 20 13:28 aixada.sql
+-rw-r--r--    1 213768     mespiB9VB         609 Apr 20 13:28 aixada_manual_install.sql
+-rw-r--r--    1 213768     mespiB9VB         571 Apr 20 13:28 dbUpgradeTo2.1.sql
+-rw-r--r--    1 213768     mespiB9VB       10833 Apr 20 13:28 dbUpgradeTo2.5.0.sql
+-rw-r--r--    1 213768     mespiB9VB         737 Apr 20 13:28 dbUpgradeTo2.5.1.sql
+-rw-r--r--    1 213768     mespiB9VB         318 Apr 20 13:28 dbUpgradeTo2.5.2.sql
+-rw-r--r--    1 213768     mespiB9VB         680 Apr 20 13:28 dbUpgradeTo2.6.1.sql
+-rw-r--r--    1 213768     mespiB9VB         815 Apr 20 13:28 dbUpgradeTo2.6.2.sql
+-rw-r--r--    1 213768     mespiB9VB        6519 Apr 20 13:28 dbUpgradeTo2.8.sql
+drwxr-xr-x    2 213768     mespiB9VB        4096 Apr 20 13:28 queries
+drwxr-xr-x    2 213768     mespiB9VB        4096 Apr 20 13:28 setup

@@ -1,0 +1,9 @@
+drwxr-xr-x    2 213768     mespiB9VB        4096 Apr 20 13:29 .
+drwxr-xr-x   12 213768     mespiB9VB        4096 Apr 20 13:29 ..
+-rw-r--r--    1 213768     mespiB9VB     1223111 Apr 20 13:29 UnicodeData.txt
+-rw-r--r--    1 213768     mespiB9VB       21689 Apr 20 13:29 UnicodeRanges.php
+-rw-r--r--    1 213768     mespiB9VB        1841 Apr 20 13:29 font_collections.php
+-rw-r--r--    1 213768     mespiB9VB        8204 Apr 20 13:29 font_coverage.php
+-rw-r--r--    1 213768     mespiB9VB        7668 Apr 20 13:29 font_dump.php
+-rw-r--r--    1 213768     mespiB9VB        6620 Apr 20 13:29 font_names.php
+-rw-r--r--    1 213768     mespiB9VB         617 Apr 20 13:29 index.php

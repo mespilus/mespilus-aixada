@@ -1,0 +1,9 @@
+drwxr-xr-x    2 213768     mespiB9VB        4096 Apr 20 13:28 .
+drwxr-xr-x    3 213768     mespiB9VB        4096 Apr 20 13:28 ..
+-rw-r--r--    1 213768     mespiB9VB         668 Apr 20 13:28 README.md
+-rw-r--r--    1 213768     mespiB9VB        1690 Apr 20 13:28 aixada_account_desc.php
+-rw-r--r--    1 213768     mespiB9VB        1069 Apr 20 13:28 aixada_iva_type.php
+-rw-r--r--    1 213768     mespiB9VB         844 Apr 20 13:28 aixada_payment_method.php
+-rw-r--r--    1 213768     mespiB9VB        1085 Apr 20 13:28 aixada_rev_tax_type.php
+-rw-r--r--    1 213768     mespiB9VB         773 Apr 20 13:28 aixada_stock_movement_type.php
+-rw-r--r--    1 213768     mespiB9VB        1057 Apr 20 13:28 aixada_unit_measure.php

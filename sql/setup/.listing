@@ -1,0 +1,6 @@
+drwxr-xr-x    2 213768     mespiB9VB        4096 Apr 20 13:28 .
+drwxr-xr-x    4 213768     mespiB9VB        4096 Apr 20 13:28 ..
+-rw-r--r--    1 213768     mespiB9VB        1112 Apr 20 13:28 aixada_insert_default_user.sql
+-rw-r--r--    1 213768     mespiB9VB        3282 Apr 20 13:28 aixada_insert_defaults.sql
+-rw-r--r--    1 213768     mespiB9VB      140831 Apr 20 13:28 aixada_queries_all.sql
+-rw-r--r--    1 213768     mespiB9VB         548 Apr 20 13:28 aixada_setup_queries.sql

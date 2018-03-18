@@ -1,0 +1,13 @@
+drwxr-xr-x    2 213768     mespiB9VB        4096 Apr 20 13:29 .
+drwxr-xr-x    3 213768     mespiB9VB        4096 Apr 20 13:29 ..
+-rw-r--r--    1 213768     mespiB9VB        1745 Apr 20 13:29 Distance.php
+-rw-r--r--    1 213768     mespiB9VB        1745 Apr 20 13:29 Exposure.php
+-rw-r--r--    1 213768     mespiB9VB        1730 Apr 20 13:29 FStop.php
+-rw-r--r--    1 213768     mespiB9VB        1730 Apr 20 13:29 Flash.php
+-rw-r--r--    1 213768     mespiB9VB        1760 Apr 20 13:29 FocalLength.php
+-rw-r--r--    1 213768     mespiB9VB        1770 Apr 20 13:29 ImageUniqueId.php
+-rw-r--r--    1 213768     mespiB9VB        1720 Apr 20 13:29 Iso.php
+-rw-r--r--    1 213768     mespiB9VB        1725 Apr 20 13:29 Make.php
+-rw-r--r--    1 213768     mespiB9VB        1730 Apr 20 13:29 Model.php
+-rw-r--r--    1 213768     mespiB9VB       16856 Apr 20 13:29 Tags.php
+-rw-r--r--    1 213768     mespiB9VB        1725 Apr 20 13:29 Time.php
